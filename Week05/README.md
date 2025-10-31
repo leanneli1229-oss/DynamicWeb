@@ -1,0 +1,1 @@
+Added a progress to current navigation bar
