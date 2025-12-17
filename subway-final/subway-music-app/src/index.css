@@ -1,0 +1,29 @@
+/* Custom animations only - NO @tailwind directives needed with CDN */
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0.3;
+  }
+}
+
+.blinking {
+  animation: blink 1s infinite;
+}
+
+@keyframes underground-stretch {
+  0%, 100% {
+    transform: scaleX(1);
+  }
+  50% {
+    transform: scaleX(1.15); /* how “long” it gets in the middle */
+  }
+}
+
+.underground-animate {
+  display: inline-block;      /* so transform only affects the word */
+  transform-origin: left;     /* or 'center' if you prefer */
+  animation: underground-stretch 2.4s ease-in-out infinite;
+}

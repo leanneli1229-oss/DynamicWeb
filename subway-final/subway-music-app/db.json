@@ -1,0 +1,100 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "stationName": "Grand Central Station",
+      "line": "Lexington Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["4", "5", "6"],
+      "lineColor": "#009952",
+      "instrument": "Piano, Man Voice",
+      "audioUrl": "/audio/grand.mp3",
+      "imageUrl": "/images/grand.png",
+      "duration": 219
+    },
+    {
+      "id": 2,
+      "stationName": "Union Square Station",
+      "line": "Lexington Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["4", "5", "6"],
+      "lineColor": "#009952",
+      "instrument": "Piano, Man Voice",
+      "audioUrl": "/audio/union.mp3",
+      "imageUrl": "/images/union.png",
+      "duration": 195
+    },
+    {
+      "id": 3,
+      "stationName": "Times Square Station",
+      "line": "Lexington Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["4", "5", "6"],
+      "lineColor": "#009952",
+      "instrument": "Piano",
+      "audioUrl": "/audio/times.mp3",
+      "imageUrl": "/images/times.png",
+      "duration": 203
+    },
+    {
+      "id": 4,
+      "stationName": "14th Street Station",
+      "line": "Broadway–7th Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["1", "2", "3"],
+      "lineColor": "#D82233",
+      "instrument": "Guitar, Man Voice",
+      "audioUrl": "/audio/14th.m4a",
+      "imageUrl": "/images/14st.png",
+      "duration": 187
+    },
+    {
+      "id": 5,
+      "stationName": "34th Street Station",
+      "line": "Broadway–7th Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["1", "2", "3"],
+      "lineColor": "#D82233",
+      "instrument": "Saxophone, Band",
+      "audioUrl": "/audio/34th.mp3",
+      "imageUrl": "/images/34st.png",
+      "duration": 211
+    },
+    {
+      "id": 6,
+      "stationName": "72nd Street Station",
+      "line": "Broadway–7th Ave Line",
+      "lineCode": "IRT",
+      "trainNumbers": ["1", "2", "3"],
+      "lineColor": "#D82233",
+      "instrument": "Band",
+      "audioUrl": "/audio/72nd.mp3",
+      "imageUrl": "/images/72nd.png",
+      "duration": 178
+    },
+    {
+      "id": 7,
+      "stationName": "West 4th Street Station",
+      "line": "Eighth Ave Line",
+      "lineCode": "IND",
+      "trainNumbers": ["A", "C", "E"],
+      "lineColor": "#0062CF",
+      "instrument": "Guitar",
+      "audioUrl": "/audio/west4.mp3",
+      "imageUrl": "/images/west4.png",
+      "duration": 192
+    },
+    {
+      "id": 8,
+      "stationName": "Fulton Street Station",
+      "line": "Eighth Ave Line",
+      "lineCode": "IND",
+      "trainNumbers": ["A", "C", "E"],
+      "lineColor": "#0062CF",
+      "instrument": "Guitar, Man Voice",
+      "audioUrl": "/audio/fulton.m4a",
+      "imageUrl": "/images/fulton.png",
+      "duration": 205
+    }
+  ]
+}
